@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Oluwawunmi 
 
 I write about the tools and libraries developers are usually expected to just *figure out on their own*.  
-Instead of spending hours digging through docs or random GitHub issues, you’ll find clear, practical breakdowns here.  
+Instead of spending hours digging through docs or random GitHub issues, you’ll find clear, practical guides here.  
 
 ### 🧑‍💻 What I write about
 - New developer tools & libraries (and when they’re actually worth using)  
