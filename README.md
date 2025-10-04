@@ -13,10 +13,7 @@ Instead of spending hours digging through docs or random GitHub issues, you’ll
 - [Best Free ChatGPT Alternatives for Coding in 2025](https://bit.ly/4mEuAwi)  
 
 ### ✨ Why I do this
-Because I know how frustrating it is to be handed a tool with the unspoken expectation that you’ll “just figure it out.”  
-I break things down so you don’t have to grind through bad docs or scattered resources.  
-
----
+Because I know how frustrating it is to be handed a tool with the unspoken expectation that you’ll “just figure it out.” I break things down so you don’t have to grind through bad docs or scattered resources.  
 
 📫 Always open to dev chats → **bewajioluwawunmi@gmail.com**
 
