@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sewa
+## Hi there 👋 I'm Oluwawunmi 
 
 I write about the tools and libraries developers are usually expected to just *figure out on their own*.  
 Instead of spending hours digging through docs or random GitHub issues, you’ll find clear, practical breakdowns here.  
