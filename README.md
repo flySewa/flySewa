@@ -10,6 +10,7 @@ Instead of spending hours digging through docs or random GitHub issues, you’ll
 
 ### 📚 Recent Guides
 - [Understanding Valibot: Why It’s Different & When To Use It](https://bit.ly/42eB6CM)  
+- [It's Okay to Use React Context for Global State Management](https://medium.com/@bewajioluwawunmi/react-hook-with-the-context-api-for-global-state-management-in-react-applications-a-guide-d477b16023e5)
 - [Best Free ChatGPT Alternatives for Coding in 2025](https://bit.ly/4mEuAwi)  
 
 ### ✨ Why I do this
